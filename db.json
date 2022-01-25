@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "firstName": "Aram",
+      "lastName": "Aramyan",
+      "nickname": "Aram700103",
+      "email": "aram00448@mail.ru",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "datatBirthday": "1996-10-10",
+      "id": 21
+    },
+    {
+      "firstName": "Hovsep",
+      "lastName": "Hovsepyan",
+      "nickname": "Hovsepyan01",
+      "email": "hovsepyan@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "datatBirthday": "1991-05-12",
+      "id": 22
+    },
+    {
+      "firstName": "Lernik",
+      "lastName": "Lernikyan",
+      "nickname": "Lernik9",
+      "email": "lernik@mail.ru",
+      "password": "142536",
+      "againPassword": "142536",
+      "gender": "male",
+      "datatBirthday": "1995-01-20",
+      "id": 23
+    },
+    {
+      "firstName": "Araqel",
+      "lastName": "Araqelyan",
+      "nickname": "Araqel01",
+      "email": "araqelyan@mail.ru",
+      "password": "000000",
+      "againPassword": "000000",
+      "gender": "male",
+      "datatBirthday": "1990-06-14",
+      "id": 24
+    },
+    {
+      "firstName": "Grigor",
+      "lastName": "Grigoryan",
+      "nickname": "Grigor2",
+      "email": "grigoryan@mail.ru",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "datatBirthday": "1960-10-10",
+      "id": 25
+    },
+    {
+      "firstName": "Arkadi",
+      "lastName": "Grigoryan",
+      "nickname": "Arkadi1",
+      "email": "arkadi@mail.ru",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "datatBirthday": "1950-12-12",
+      "id": 26
+    }
+  ],
+  "posts": [
+    {
+      "id": "7245f04a-9918-482f-b822-11e3654f914b",
+      "title": "vhgv",
+      "content": "jhvj",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "8520140d-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "8520140d2-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "85201140d-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "85204140d-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "85201450d-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "8520123140d-8276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    },
+    {
+      "id": "8520140d-44128276-49d4-b4b5-9491eb286d42",
+      "title": "DHsfj",
+      "content": "guk",
+      "createdAt": "2022-01-25",
+      "likes": [
+        22
+      ]
+    }
+
+  ]
+}

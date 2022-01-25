@@ -1,0 +1,99 @@
+.container{
+    height: 500px;
+    width: 700px;
+    background-color: black;
+    opacity: 0.5;
+    border-radius: 35px;
+    margin: auto;
+    margin-top: 70px;
+    box-shadow:  5px 5px rgb(0 0 0 / 0.4)
+}
+
+.wrapper{
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns : 350px 350px ;
+    grid-template-rows: 70px 70px 70px 70px 70px;
+
+}
+.cnacelbt{
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+h2{
+    color:blanchedalmond;
+    text-align: center;
+}
+.input{
+    height: 35px;
+    width: 280px;
+    margin-left:20px;
+    border-radius: 10px;
+}
+.inputGend{
+    display: inline-block;
+    height: 35px;
+    width:285px;
+    margin-left: 20px;
+    background-color: #c9cbce ;
+    font-size: 25px;
+    border-radius: 10px;
+    color: #707070;
+    border: 2px solid ;
+    
+}
+.inputGend>.span1{
+    margin-left: 50px;
+    color: black;
+}
+.inputGend>.span2{
+    margin-left: 30px;
+    color: black;
+}
+button{
+    width: 95%;
+    height: 50px;
+    font-size: 25px;
+    color: honeydew;
+}
+.Cancel{
+    border-radius: 0px 40px 40px 0px;
+    background-color: red;
+
+    
+}
+.SignUP{
+    border-radius: 40px 0px 0px 40px;
+    background-color: green;
+    margin-left: 5%;
+    
+}
+.pas>.eyesIcon{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 10px;
+
+}
+.cr{
+   
+    position: absolute;
+    margin-left: 270px;
+}
+.errors{
+    color: red;
+    font-size: 15px;
+    border-bottom:red solid 2px;
+    border-left: red solid 1px;
+    margin-left: 30px;
+
+
+}
+.c{
+    position: absolute;
+    color:white;
+    text-align: center;
+    margin: 100px 150px;
+    
+}
+
